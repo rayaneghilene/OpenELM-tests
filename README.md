@@ -1,4 +1,4 @@
-# OpenELM-tests
+# OpenELM-tests (colab)
 This repository contains text generation and classification, using the OpenELM model released by Apple.
 
 
