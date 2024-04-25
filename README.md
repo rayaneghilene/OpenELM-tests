@@ -19,7 +19,8 @@ git clone https://github.com/rayaneghilene/OpenELM-tests.git
 
 **Install the latest version of transformers from Github**
 ```
-!pip install git+https://github.com/huggingface/transformers.git@main```
+!pip install git+https://github.com/huggingface/transformers.git@main
+```
 
 
 ## Reference
