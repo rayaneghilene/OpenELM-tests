@@ -10,13 +10,16 @@ This repository contains text generation and classification, using the OpenELM m
 
 ## Usage
 The notebooks provided in this repo are straightforward, just clone the repo using the following:
-
+```
+git clone https://github.com/rayaneghilene/OpenELM-tests.git
+```
 
 ## Requirements 
 
+
+**Install the latest version of transformers from Github**
 ```
-!pip install transformers
-```
+!pip install git+https://github.com/huggingface/transformers.git@main```
 
 
 ## Reference
